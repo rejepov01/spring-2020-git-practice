@@ -1,3 +1,5 @@
 red
 white
 yellow
+black
+pink
