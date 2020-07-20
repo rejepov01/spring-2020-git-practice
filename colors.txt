@@ -7,3 +7,5 @@ pink
 purple
 blue
 turquas
+greay
+orange
